@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
+    "Precision in Dynamic Rope Manipulation: The Advantage of Force Feedback<br />Amazon Fellows Lightning Talks; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "OptiStrain: A vision- and microfluidics-based tactile sensor with high spatial and temporal resolution<br />IEEE World Haptics Conference; Suwon, Korea",
+    37.2633325,
+    127.0287472
+  ],
+  [
+    "Storytelling Through Characters at Disney Parks<br />South by Southwest (SXSW); Austin, TX, USA",
+    30.2711286,
+    -97.7436995
+  ],
+  [
+    "Precision in Dynamic Rope Manipulation: The Advantage of Force Feedback<br />UCLA Mechanical and Aerospace Engineering Industrial Advisory Board Symposium; Los Angeles, CA, USA",
+    34.0536909,
+    -118.242766
   ]
 ];
