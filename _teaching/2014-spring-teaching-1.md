@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
+title: "Robotic Kinematics and Dynamics Teaching Assistant (TA)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "Carnegie Mellon Univeristy, Robotics Institute"
 date: 2014-01-01
-location: "City, Country"
+location: "Pittsburgh, PA"
+excerpt: '<iframe width="560" height="315" src="https://www.youtube.com/embed/31zWiwinsTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dn1aSWOgxUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Capstone Videos
 
-Heading 1
+**Video 1:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/31zWiwinsTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Video 2:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dn1aSWOgxUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Course Overview
 ======
 
-Heading 2
+## Learning Objectives  
 ======
 
-Heading 3
-======
+## Course Materials
+
+https://sites.google.com/site/robotkinematicscmu/home?authuser=0

@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Dynamics of Particle and Rigid Bodies Taching Assistant (TA)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate Course"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "University of California, Los Angeles"
 date: 2015-01-01
-location: "City, Country"
+location: "Los Angeles, California"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
