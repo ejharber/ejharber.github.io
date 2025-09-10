@@ -10,6 +10,11 @@ var addressPoints = [
     127.0287472
   ],
   [
+    "The power of touch in human-robot systems for a connected world<br />AI for Good; Geneva, Switzerland",
+    46.2017559,
+    6.1466014
+  ],
+  [
     "Storytelling Through Characters at Disney Parks<br />South by Southwest (SXSW); Austin, TX, USA",
     30.2711286,
     -97.7436995
