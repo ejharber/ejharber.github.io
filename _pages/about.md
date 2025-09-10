@@ -21,7 +21,7 @@ My research integrates three core areas to advance robotic manipulation capabili
 
 **Tactile Sensing** | Developing advanced sensors that provide robots with human-like touch perception  
 **Deformable Object Modeling** | Creating computational models that capture the complex dynamics of flexible materials  
-**Motion Planning** | Designing algorithms that enable precise control of robotic systems
+**Manipulation** | Developing learning-based algorithms for precise control and manipulation of diverse objects with robotic systems
 
 The primary goal of my Ph.D. research is to demonstrate that by leveraging both visual and force feedback, we can successfully bridge the Sim2Real gap in deformable object manipulation. This approach enables robots to gain a more nuanced understanding of object internal states, leading to more robust and adaptable control strategies.
 

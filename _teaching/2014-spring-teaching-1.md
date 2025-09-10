@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Carnegie Mellon Univeristy, Robotics Institute"
-date: 2014-01-01
+date: 2018-01-01
 location: "Pittsburgh, PA"
 excerpt: '<iframe width="560" height="315" src="https://www.youtube.com/embed/31zWiwinsTo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
